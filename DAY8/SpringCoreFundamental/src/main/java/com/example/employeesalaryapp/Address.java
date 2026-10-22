@@ -5,10 +5,3 @@ public class Address {
         System.out.println("New Address");
     }
 }
-package com.example.employeesalaryapp;
-
-public class Address {
-    public void getAddress(){
-        System.out.println("New Address");
-    }
-}
